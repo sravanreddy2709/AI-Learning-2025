@@ -17,8 +17,8 @@ This repo contains my daily learning and projects in Python, Machine Learning, a
 
 # 📅 Weekly Progress
 
-- [**Week 1:** Python basics (variables, loops, functions) 🔄](ai-roadmap.md#week-1)  
-- [**Week 2:** NumPy & Pandas (data handling) ⏳](ai-roadmap.md#week-2)  
+- [Week 1: Python basics (variables, loops, functions) 🔄](ai-roadmap.md#week-1)  
+- [Week 2:NumPy & Pandas (data handling) ⏳](ai-roadmap.md#week-2)  
 - [**Week 3:** Data Visualization (Matplotlib, Seaborn) ⏳](daily-log.md#week-3)  
 - [**Week 4:** Exploratory Data Analysis (EDA) ⏳](daily-log.md#week-4)  
 - [**Week 5:** Statistics & Probability ⏳](daily-log.md#week-5)  
