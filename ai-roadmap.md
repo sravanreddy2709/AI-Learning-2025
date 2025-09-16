@@ -16,7 +16,7 @@
 
 ⬜ Day 7: Mini Python exercises
 
-## Week 2 – NumPy & Pandas (data handling) ⏳]
+## Week 2 – Python Intermediate
 
 ⬜ Day 8: Error handling, try/except
 
@@ -32,7 +32,7 @@
 
 ⬜ Day 14: Python practice set
 
-Week 3 – NumPy
+## Week 3 – NumPy
 
 ⬜ Day 15: NumPy basics, arrays
 
@@ -48,7 +48,7 @@ Week 3 – NumPy
 
 ⬜ Day 21: Revision + exercises
 
-Week 4 – Pandas
+## Week 4 – Pandas
 
 ⬜ Day 22: Pandas Series
 
@@ -64,7 +64,7 @@ Week 4 – Pandas
 
 ⬜ Day 28: Revision
 
-Week 5 – Data Visualization
+## Week 5 – Data Visualization
 
 ⬜ Day 29: Matplotlib basics (plots, labels)
 
@@ -80,7 +80,7 @@ Week 5 – Data Visualization
 
 ⬜ Day 35: Weekly revision
 
-Week 6 – Statistics & Math for AI
+## Week 6 – Statistics & Math for AI
 
 ⬜ Day 36: Mean, median, mode
 
@@ -96,7 +96,7 @@ Week 6 – Statistics & Math for AI
 
 ⬜ Day 42: Matrix operations
 
-Week 7 – Machine Learning Basics
+## Week 7 – Machine Learning Basics
 
 ⬜ Day 43: ML intro, types of ML
 
@@ -112,7 +112,7 @@ Week 7 – Machine Learning Basics
 
 ⬜ Day 49: ML mini project
 
-Week 8 – ML Advanced
+## Week 8 – ML Advanced
 
 ⬜ Day 50: Decision Trees
 
@@ -128,7 +128,7 @@ Week 8 – ML Advanced
 
 ⬜ Day 56: Revision
 
-Week 9 – Neural Networks Basics
+## Week 9 – Neural Networks Basics
 
 ⬜ Day 57: Intro to Neural Nets
 
@@ -144,7 +144,7 @@ Week 9 – Neural Networks Basics
 
 ⬜ Day 63: Neural Net project
 
-Week 10 – Deep Learning
+## Week 10 – Deep Learning
 
 ⬜ Day 64: CNN basics
 
@@ -160,7 +160,7 @@ Week 10 – Deep Learning
 
 ⬜ Day 70: Revision
 
-Week 11 – NLP
+## Week 11 – NLP
 
 ⬜ Day 71: NLP intro & text preprocessing
 
@@ -176,7 +176,7 @@ Week 11 – NLP
 
 ⬜ Day 77: NLP project
 
-Week 12 – AI Projects
+## Week 12 – AI Projects
 
 ⬜ Day 78: Project 1 – Predictive ML
 
@@ -192,7 +192,7 @@ Week 12 – AI Projects
 
 ⬜ Day 84: Project 7 – Custom AI Idea
 
-Week 13 – Cloud & Deployment
+## Week 13 – Cloud & Deployment
 
 ⬜ Day 85: Git basics (push, pull, branch)
 
@@ -208,7 +208,7 @@ Week 13 – Cloud & Deployment
 
 ⬜ Day 91: Deploy AI project on Streamlit
 
-Week 14 – Polishing
+## Week 14 – Polishing
 
 ⬜ Day 92: Resume writing for AI roles
 
@@ -224,7 +224,7 @@ Week 14 – Polishing
 
 ⬜ Day 98: Interview prep – ML Qs
 
-Week 15 – Final Stretch
+## Week 15 – Final Stretch
 
 ⬜ Day 99: Interview prep – DL/NLP Qs
 
