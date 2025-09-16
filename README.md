@@ -16,9 +16,21 @@ This repo contains my daily learning and projects in Python, Machine Learning, a
 ---
 
 ## 📅 Weekly Progress
-- **Week 1:** Python basics (variables, loops, functions) ✅
-- **Week 2:** NumPy & Pandas (data handling) 🔄
+- **Week 1:** Python basics (variables, loops, functions) 🔄
+- **Week 2:** NumPy & Pandas (data handling)  ⏳
 - **Week 3:** Data Visualization (Matplotlib, Seaborn) ⏳
+- **Week 4:** Exploratory Data Analysis (EDA) ⏳  
+- **Week 5:** Statistics & Probability ⏳  
+- **Week 6:** Introduction to Machine Learning ⏳  
+- **Week 7:** Regression Models ⏳  
+- **Week 8:** Classification Models ⏳  
+- **Week 9:** Model Evaluation & Metrics ⏳  
+- **Week 10:** Feature Engineering & Preprocessing ⏳  
+- **Week 11:** Ensemble Methods ⏳  
+- **Week 12:** Unsupervised Learning (Clustering, PCA) ⏳  
+- **Week 13:** Time Series Analysis ⏳  
+- **Week 14:** Deep Learning Basics (Neural Networks) ⏳  
+- **Week 15:** Final Project / Capstone ⏳  
 
 ---
 
