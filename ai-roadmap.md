@@ -1,4 +1,4 @@
-📖 Daily Learning Log (Roadmap to AI Engineer)
+📖 Daily Learning Log (Roadmap to AI Engineer)✅
 Week 1 – Python Basics
 
 ⬜ Day 1: Python setup, variables, input/output, datatypes
