@@ -16,7 +16,7 @@
 
 ⬜ Day 7: Mini Python exercises
 
-## Week 2 – Python Intermediate
+## Week 2 – NumPy & Pandas (data handling) ⏳]
 
 ⬜ Day 8: Error handling, try/except
 
